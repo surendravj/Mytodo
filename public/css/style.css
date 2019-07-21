@@ -1,0 +1,38 @@
+.container-fluid{
+    width:100%;
+    height:657px;
+    /* background-image: linear-gradient(to right, #74ebd5 0%, #9face6 100%); */
+    background-color: #f76262;
+    position: fixed;
+}
+
+#p1{
+    font-family: 'Butcherman', cursive;
+    text-align: center;
+    margin:50px auto;
+    font-style: italic;
+    text-transform: capitalize;
+}
+#p2{
+    font-family: 'Barriecito', cursive;
+    text-align: center;
+    font-style: italic;
+    text-transform: capitalize;
+}
+.btn-dark{
+    width:100px;
+    text-transform: capitalize;
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #252525;
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+  }
